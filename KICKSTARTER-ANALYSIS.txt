@@ -1,0 +1,40 @@
+# An Analysis of Kickstarter Campaingns
+Using the Kickstarter Campaign Data to determine their outcomes and help Louise plan her campaign.
+## Overview of Project
+For this project we used Microsoft Excel to extract the relevant data  that would help Louise plan  a successful campaign  for her play in the US. 
+
+### Purpose
+The purpose of the challenge was to help Louise plan a successful campaign for her play.
+
+## Analysis and Challenges.
+To properly and efficiently analyze the Data, we had to break the information down to smaller portion using different sheets in Excel,
+  Some challenges along the way will be  creating the correct (Count IFS ) formular  to achieve the  the true  information.
+I overcame this by using the resources available to me  e.g Google, and the Module. and also just trying different ways of inputing the formula.
+ Another challenge was paying attention to the sheets and making sure to only filter  and select the right column. 
+
+### Analysis of Outcomes Based on Launch Date
+To accurately help Louise determine the best time to launch her campaign we had to first look at when the campaigns in the Kickstarter Data were held,
+and how they did. We filtered the information to show campaigns launched in Theater from the Parent Category and the years.
+we then focused on the campaigns that were successful, failed and or were canceled. We then created a Pivot chart that
+showed May was the best month to launch a Theatre campaign.
+
+### Analysis of Outcomes Based on Goals
+To also help Louise set a campaign goal that had a better chance of being successful, We broke the information down even furthur to show
+ which projects succeeded based on the Goals. This showed that Campaign goals that ranged between $1000 to $5000 had a high success rate. 
+ we also created a visual representation for the different Goal ranges and their  outcomes based on which range was successful, failed or canceled.
+### Challenges and Difficulties Encountered
+ Some challenges along the way will be  creating the correct (Count IFS ) formular  to achieve the  the true  information.
+I overcame this by using the resources available to me  e.g Google, and the Module and also just trying different ways of inputing the formula.
+
+## Results
+We were able to present Louise with enough data to launch a successful campaign based ont he Kickstarter data.
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+May was the best Month to launch a Theatre campaign, followed by June. The Graph also showed December to be the worst month to launch a theatre campaign.
+
+- What can you conclude about the Outcomes based on Goals?
+That Goals that ranged from $1000-$5000 were more successful that the others even though that range also had a high failure rate.
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+We could create a table that shows whether the length of a campaign had any effect on its outcome.
+another might be a table based on how well the campaign might do in different countries.
